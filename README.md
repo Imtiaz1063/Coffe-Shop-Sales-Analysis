@@ -1,2 +1,3 @@
 # Coffe-Shop-Sales-Analysis
+https://www.google.com/imgres?q=google&imgurl=https%3A%2F%2F53.fs1.hubspotusercontent-na1.net%2Fhub%2F53%2Fhubfs%2Fimage8-2.jpg%3Fwidth%3D600%26name%3Dimage8-2.jpg&imgrefurl=https%3A%2F%2Fblog.hubspot.com%2Fmarketing%2Fgoogle-logo-history&docid=hEGKA2JoH-lywM&tbnid=iprhwpMK0NwpjM&vet=12ahUKEwiHs4HF3pCMAxUexzgGHa8UCM8QM3oFCIUBEAA..i&w=600&h=300&hcb=2&ved=2ahUKEwiHs4HF3pCMAxUexzgGHa8UCM8QM3oFCIUBEAA
 Created an interactive Coffee Shop Sales Dashboard in Excel by cleaning data, building PivotTables, and designing PivotCharts. Added calculated fields for revenue, month, day, and hour. Analyzed sales trends by time and category. Developed a dynamic dashboard with slicers to optimize sales strategies.
